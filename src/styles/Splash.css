@@ -1,0 +1,19 @@
+.app-container#splash {
+    background: linear-gradient(0deg, rgba(0, 22, 69, 1) 0%, rgba(1, 114, 178, 1) 100%);
+    background-color: rgb(0, 22, 69);
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+}
+
+.poppins-medium {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
